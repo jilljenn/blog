@@ -1,0 +1,11 @@
+<section>
+  <h1>Pick a tag!</h1>
+  <ul id="recent_posts">
+    {% assign sorted_cats = site.categories | sort %}
+    {% for category in sorted_cats %}
+      <li class="post">
+        {{ category[0] | category_link }} ({{ category[1].size }})
+      </li>
+    {% endfor %}
+  </ul>
+</section>

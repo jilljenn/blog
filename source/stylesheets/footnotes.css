@@ -1,0 +1,76 @@
+#footnotediv {
+	position: absolute;
+	border: 1px solid #777;
+	background-color: #eee;
+	width: 300px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	-moz-box-shadow: 0 2px 4px rgba(17,17,18,0.79);
+	-webkit-box-shadow: 0 2px 4px rgba(17,17,18,0.79);
+	box-shadow: 0 2px 4px rgba(17,17,18,0.79);
+	padding: 10px;
+	color: #666
+}
+
+ #footnotediv p {
+	margin: 0;
+	padding: 0;
+}
+
+a.footnotebacklink {
+	border-bottom: none;
+}
+
+a.footnotebacklink img {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+#footnotecloselink {
+	color: #888;
+	text-decoration: none;
+	text-align: right;
+	margin: 0;
+	padding: 0 5px;
+	font-size: 1.0em;
+	position: absolute;
+	float: right;
+	top: 0;
+	right: 0;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+}
+
+sup a {
+	margin: 0;
+	padding: 0 0.2em;
+	text-decoration: none;
+}
+
+sup {
+	padding: 0;
+}
+
+.footnotes {
+	font-size: 0.7em;
+}
+
+.footnotes p {
+	margin-bottom: 0.6em;
+	line-height: 1.1em;
+}
+
+.footnotes a {
+	text-decoration: none;
+}
+
+p img, .twitter-tweet {
+	margin: auto;
+	display: block;
+}
+
+.nolink a {
+	text-decoration: none;
+}
