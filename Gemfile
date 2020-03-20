@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 group :development do
-  gem 'rake', '~> 0.9'
+  gem 'rake', '>= 12.3.3'
 
   gem 'jekyll', '~> 3.8.6'
   group :jekyll_plugins do
