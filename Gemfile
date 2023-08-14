@@ -29,3 +29,7 @@ group :development do
   # gem 'directory_watcher', '1.4.1'
 end
 # gem 'sinatra', '~> 1.4.2'
+
+gem "webrick", "~> 1.8"
+
+gem "rexml", "~> 3.2"

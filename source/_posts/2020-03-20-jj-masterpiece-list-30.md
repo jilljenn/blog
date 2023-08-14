@@ -11,7 +11,7 @@ categories:
 
 ## Mindblown
 
-Voici les œuvres qui m'ont profondément marqué au cours de cette décade :
+Voici les œuvres qui m'ont profondément marqué au cours de cette décennie :
 
 {% img /images/fresque1.gif %}
 
