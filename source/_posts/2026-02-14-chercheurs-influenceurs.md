@@ -9,38 +9,39 @@ categories:
   - Vie
 ---
 
-Bon je voulais un peu compenser le ton de mon post précédent avec un post encore une fois trop gros pour moi. Du coup je vais le découper en trois parties afin de dormir un peu entre chaque.
-
 Je me suis posé quelques questions innocentes :
 
-- est-ce que les geisha sont l'équivalent d'antan des japanese idols ?
-- est-ce que le jeu vidéo d'aujourd'hui est l'équivalent de l'opéra d'antan ?
+- [est-ce que les geisha sont l'équivalent d'antan des japanese idols ?](/2025/12/26/maiko-geisha-japanese-idols/)
+- [est-ce que le jeu vidéo d'aujourd'hui est l'équivalent de l'opéra d'antan ?](/2025/12/30/jeux-video-10e-art/)
 - **est-ce que les chercheurs sont les influenceurs d'antan ?**
-
-(J'ai cligné des yeux et je me suis retrouvé bien avancé en 2026 hélas.)
 
 ## Chercheurs vs. influenceurs
 
 (Prompt) Est-il OK de dire que les chercheurs sont les équivalents des influenceurs d'aujourd'hui ? En termes de créateurs de contenu ; qui sont les premiers chercheurs ?
 
-Alors évidemment, la méthode scientifique est différente. Mais sur certains aspects, le fait que le chercheur coure après les citations et que sa communication soit importante pour exister fait penser aux influenceurs. Évidemment, on a aussi des charlatans, donc on pense aux revues avec évaluation par les pairs. Mais lorsque ces pairs sont des bots, ou lorsque des papiers extrêmement influents sont restés à l'état de preprints ou position papers, on peut se permettre de faire l'analogie.
+Alors évidemment, la méthode scientifique est différente. Mais sur certains aspects, le fait que le chercheur coure après les citations et que sa communication soit importante pour exister fait penser aux influenceurs. Évidemment, on a aussi des charlatans, donc on pense aux revues avec évaluation par les pairs. Mais lorsque ces pairs sont des bots (cf. [*The Guardian*](https://www.theguardian.com/technology/2025/dec/06/ai-research-papers), [*Nature*](https://www.nature.com/articles/d41586-025-03967-9)), ou lorsque des papiers extrêmement influents sont restés à l'état de preprints ou position papers, on peut se permettre de faire l'analogie.
 
 Un LLM m'a donné l'exemple que pendant la crise de COVID, les chercheurs ont expliqué des études sur les réseaux sociaux, parfois sur YouTube, qu'il y a eu une explosion des preprints (parfois des falsifications de résultats d'ailleurs, je me rappelle *The Lancet*), et ce au milieu de charlatans.
 
 > Beaucoup de chercheurs ont découvert la face sombre de la notoriété : insultes, menaces de mort et cyberharcèlement.
 
+Ça me fait penser à deux choses :
+
+- [Vincent Lindon](https://x.com/cavousf5/status/1564306823162757122) : "Je pense qu'aujourd'hui, les intellectuels se taisent et leur silence est assourdissant. Les grands intellectuels, qui ont du courage, qui haranguent les foules… ça manque."
+- Cette merveilleuse [note](https://comite-ethique.cnrs.fr/avis-du-comets-entre-liberte-et-responsabilite-engagement-public-des-chercheurs-et-chercheuses/) du comité d'éthique du CNRS : "Entre liberté et responsabilité : l'engagement public des chercheurs et chercheuses"
+
 > L'influenceur cherche souvent à générer un revenu ou une notoriété rapide. Le chercheur cherche (en théorie) à atteindre une vérité objective ou à résoudre un problème complexe, souvent sur des temps très longs (des décennies parfois).
 
 Mais dans certaines périodes de sa vie, le chercheur peut être amené à devoir publier très vite sous peine de devoir trouver un autre métier.
-Il existe des joutes entre écoles de pensées (Rocq vs. Lean :p) qui ne sont pas aussi médiatisés que les débats entre influenceurs, mais qui existent bien.
-Et puis, disons-le, des querelles d'ego.
+Il existe des joutes entre écoles de pensées ([Rocq](https://github.com/rocq-prover/rocq/issues/10871) vs. [Lean](https://sympa.inria.fr/sympa/arc/coq-club/2020-01/msg00008.html) :p) qui ne sont pas aussi médiatisés que les débats entre influenceurs, mais qui existent bien.
+Et puis parfois, des querelles d'ego.
 
 ### Galilée et les héliocentristes
 
-J'ai regardé l'anime *Orb: On the Movements of Earth*. Ça raconte l'histoire des héliocentristes du XVe siècle qui étaient considérés comme hérétiques par l'Église (l'anime insiste sur leur traque et persécution). Je dirais même que le personnage principal est une idée qui fait tout pour survivre et qui est transmise d'un humain à un autre. J'ai passé un excellent moment (OP de Sakanaction) même si sur la fin ça partait un peu sur la foi.
-On assiste notamment à l'arrivée de l'imprimerie. Aux femmes qui font de la recherche en cachette de peur d'être prises pour des sorcières. Des gens peuvent être recrutés pour leurs facultés exceptionnelles : la vue (ben oui, sans bonne vue, comment faire de l'astronomie, hein, sans lunettes). Dans la série, il y a même un chercheur qui est contre la démocratisation de l'écriture de peur que les gens écrivent des conneries :) Il y a certainement un parallèle à faire avec l'IA.
+J'ai regardé l'anime [*Orb: On the Movements of Earth*](https://en.wikipedia.org/wiki/Orb:_On_the_Movements_of_the_Earth). Ça raconte l'histoire des héliocentristes du XVe siècle qui étaient considérés comme hérétiques par l'Église (l'anime insiste sur leur traque et persécution). Je dirais même que le personnage principal est une idée qui fait tout pour survivre et qui est transmise d'un humain à un autre. J'ai passé un excellent moment ([générique](https://www.youtube.com/watch?v=eZAocot63s8) de Sakanaction) même si sur la fin ça part un peu sur la foi.
+On assiste notamment à l'arrivée de l'imprimerie. Aux femmes qui font de la recherche en cachette de peur d'être prises pour des sorcières. Des gens peuvent être recrutés pour leurs facultés exceptionnelles : la vue (ben oui, sans bonne vue, comment faire de l'astronomie, hein, dans une ère sans lunettes). Dans la série, il y a même un chercheur qui est contre la démocratisation de l'écriture de peur que les gens écrivent des conneries :) Il y a certainement un parallèle à faire avec l'IA.
 
-La première revue est la *Royal Society's Philosophical Transactions* (1665). C'est marrant parce que j'avais déjà fait un thread dessus il y a quelques années :
+La première revue scientifique est la *Royal Society's Philosophical Transactions* (1665). C'est marrant parce que j'avais déjà fait un thread dessus il y a quelques années :
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Oldest research articles. A short thread. ⏬</p>&mdash; Jill-Jênn Vie (@jjvie) <a href="https://twitter.com/jjvie/status/1375524311570735104?ref_src=twsrc%5Etfw">March 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -52,7 +53,7 @@ On a l'impression que les chercheurs étaient principalement des révérends gen
 
 Alors que les savants écrivaient en latin, Galilée avait fait le choix de rédiger le *Dialogue sur les deux grands systèmes du monde* (1632) en italien vernaculaire. Il avait compris le pouvoir de la visibilité publique, et voulait que le peuple comprenne ses idées.
 
-L'Église contestait son influence et lui a intenté un procès en 1633. En publiant en italien et en ridiculisant les géocentristes, son "contenu" a été censuré et il a été condamné à la résidence surveillée à vie.
+L'Église contestait son influence et lui a intenté un procès en 1633 (il avait 69 ans, c'était 9 ans avant sa mort). En publiant en italien et en ridiculisant les géocentristes, son "contenu" a été censuré et il a été condamné à la résidence surveillée à vie.
 
 ### Darwin, le teasing le plus long de l'histoire (20 ans d'attente)
 
@@ -75,17 +76,17 @@ Marie Curie en 1903 : bon j'ai découvert deux éléments, est-ce que je peux av
 - 4/11/1911 un scandale éclate : liaison extraconjugale avec Paul Langevin (lettres volées par son beau-frère), l'extrême droite blabla, le ministre de l'instruction publique lui souhaite même de retourner en Pologne
 - 8/11/1911 deuxième prix Nobel ; le comité lui dit : "Mais je vois que vous êtes au cœur d'un scandale, ne vous sentez pas obligée de venir le chercher hein" "Si si j'arrive"
 
-Pendant la Première Guerre, elle est allée sur le terrain (avec sa fille de 19 ans ? Irène Joliot-Curie) avec ses petites unités de radiologie mobile (petites curies) pour repérer les impacts de balle sur les soldats blessés.
+Pendant la Première Guerre, elle est allée sur le terrain (avec sa fille de 19 ans ? Irène Joliot-Curie) avec ses petites unités de radiologie mobile ("Petites Curie") pour repérer les impacts de balle sur les soldats blessés.
 
-Elle s'est fait une pote journaliste, Marie Meloney, qui a fait un crowdfunding auprès des femmes américaines qui lui a permis d'avoir 100 000 dollars (1 million de francs or) pour acheter un gramme de radium aux US (1921) et fonder l'institut du Radium en France.
+Elle s'est fait une pote journaliste, Marie Meloney, qui a fait en 1921 un crowdfunding auprès des femmes américaines pour récolter 100 000 dollars (1 million de francs or) pour acheter un gramme de radium aux US et fonder l'institut du Radium en France.
 
 Pierre et Marie Curie ont refusé de déposer un brevet sur la découverte du radium.
 
 > Le radium ne doit enrichir personne. C'est un élément, il appartient à tout le monde.
 
-Open source comme dit l'autre LLM là.
+Open source comme dit l'autre LLM, là.
 
- [^1]: Qui s'est battu pour que sa femme ait aussi le prix.
+ [^1]: Pierre Curie s'est battu pour que sa femme ait aussi le prix.
 
 ### Oppenheimer
 

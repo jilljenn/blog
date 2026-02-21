@@ -9,13 +9,11 @@ categories:
   - Vie
 ---
 
-Bon je voulais un peu compenser le ton de mon post précédent avec un post encore une fois trop gros pour moi. Du coup je vais le découper en trois parties afin de dormir un peu entre chaque.
-
 Je me suis posé quelques questions innocentes :
 
-- est-ce que les geisha sont l'équivalent d'antan des japanese idols ?
+- [est-ce que les geisha sont l'équivalent d'antan des japanese idols ?](/2025/12/26/maiko-geisha-japanese-idols/)
 - **est-ce que le jeu vidéo d'aujourd'hui est l'équivalent de l'opéra d'antan ?**
-- est-ce que les chercheurs sont les influenceurs d'antan ?
+- [est-ce que les chercheurs sont les influenceurs d'antan ?](/2026/02/14/chercheurs-influenceurs/)
 
 ## Jeux vidéo vs. opéra
 
@@ -43,9 +41,9 @@ L'opéra date du XVIIe siècle (1607 Orfeo de Monteverdi, après l'essor de l'im
 
 L'industrie du jeu vidéo [rapporte plus](https://fr.wikipedia.org/wiki/Jeu_vid%C3%A9o#Impact_%C3%A9conomique) que celle du cinéma, depuis 1997.
 
-J'ai suivi les Game Awards où Expédition 33 a été sacré, il y avait 1 million de spectateurs en live ! J'ai fini les [5 heures de cinématiques](https://www.youtube.com/watch?v=NQ5J8vmjxzo), c'est vraiment une des plus merveilleuses histoires qui soient, merveilleusement racontée, par une dream team internationale et pas seulement montpelliéraine. C'est cela qui m'a inspiré ce post.
+J'ai suivi les Game Awards où Expédition 33 a été sacré, il y avait 1 million de spectateurs en live ! J'ai fini les [5 heures de cinématiques](https://www.youtube.com/watch?v=NQ5J8vmjxzo), c'est vraiment une des plus merveilleuses histoires qui soient, merveilleusement racontée, par une dream team internationale et pas seulement montpelliéraine. C'est leur exploit qui m'a inspiré ce post.
 
-Le fait qu'il y ait un prix décerné *best performer* repose la question de qui est vraiment l'acteur : celui qui est en *motion capture*, ou celui qui donne sa voix ? Certains souhaitent promouvoir le fait qu'on prime un meilleur personnage, plutôt qu'un *best performer*.
+Le fait qu'il y ait aux Game Awards un prix décerné *best performer* repose la question de qui est vraiment l'acteur : celui qui est en *motion capture*, ou celui qui donne sa voix ? Certains souhaitent réformer et récompenser un meilleur personnage, plutôt qu'un *best performer*.
 
 <!--
 Je pensais également à tout cela à cause du dernier Mamoru Hosoda, Scarlet, qui est librement inspiré de Hamlet (1623).
@@ -60,17 +58,20 @@ J'ai donc une petite pensée pour tout ceux qui ont créé des œuvres en Flash.
 
 Et la page [Code créatif](https://fr.wikipedia.org/wiki/Code_cr%C3%A9atif) m'a inspiré le prompt suivant :
 
-    Prompt: Fais un graphe graphviz à partir de personnes qui ont joué un rôle clé dans le développement de l'art numérique ; n'hésite pas à le compléter en ajoutant d'autres personnes :  
+    Prompt: Fais un graphe graphviz à partir de personnes qui ont joué un rôle clé dans le
+    développement de l'art numérique ; n'hésite pas à le compléter en ajoutant d'autres personnes :  
     1969 logo Seymour Papert
     MIT Maeda  
     john maeda (1966-) et ses étudiants  
     2001 processing 2001 Casey Reas / Ben Fry => P5js
 
+Résultat :
+
 {% img /images/artnumerique.png %}
 
 - L'ancêtre (LOGO) : [Seymour Papert](https://fr.wikipedia.org/wiki/Seymour_Papert) a introduit l'idée que le code n'est pas seulement pour les mathématiciens, mais un outil d'apprentissage et d'expression (la "tortue" LOGO).
-- Le passage au Design : [John Maeda](https://en.wikipedia.org/wiki/John_Maeda) a formalisé cela pour les artistes avec Design By Numbers, transformant le code en matériau plastique.
+- Le passage au Design : [John Maeda](https://en.wikipedia.org/wiki/John_Maeda) a formalisé cela pour les artistes avec *Design By Numbers*, transformant le code en matériau plastique.
 - La démocratisation (Processing) : Ses étudiants, Casey Reas et Ben Fry, ont créé Processing, qui est devenu le standard mondial pour l'enseignement du code aux artistes.
 - L'ère moderne (p5.js) : Lauren McCarthy a ensuite porté cette philosophie sur le web avec p5.js, rendant l'art numérique accessible directement dans le navigateur sans installation logicielle.
 
-J'aime bien ce que l'article Grégory Chatonsky écrit (écrivait ?). Notamment sur [Stiegler](https://chatonsky.net/tournant-stiegler/).
+J'aime bien ce que l'artiste Grégory Chatonsky écrit (écrivait ?). Notamment sur [Stiegler](https://chatonsky.net/tournant-stiegler/).

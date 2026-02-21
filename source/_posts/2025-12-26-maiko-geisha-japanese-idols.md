@@ -13,9 +13,9 @@ Bon je voulais un peu compenser le ton de mon post précédent avec un post enco
 
 Je me suis posé quelques questions innocentes :
 
-- est-ce que les geisha sont l'équivalent d'antan des japanese idols ?
-- est-ce que le jeu vidéo d'aujourd'hui est l'équivalent de l'opéra d'antan ?
-- est-ce que les chercheurs sont les influenceurs d'antan ?
+- **est-ce que les geisha sont l'équivalent d'antan des japanese idols ?**
+- [est-ce que le jeu vidéo d'aujourd'hui est l'équivalent de l'opéra d'antan ?](/2025/12/30/jeux-video-10e-art/)
+- [est-ce que les chercheurs sont les influenceurs d'antan ?](/2026/02/14/chercheurs-influenceurs/)
 
 ## Geisha vs. idols
 
@@ -29,7 +29,7 @@ Je me suis dit que c'était marrant que les geisha et japanese idols coexistent,
 
 Saviez-vous qu'il est interdit de prendre en photo certains quartiers traditionnels de Kyoto à Gion suite au [harcèlement de geishas en 2019](https://edition.cnn.com/travel/geisha-paparazzi-overtourism-kyoto-intl-hnk/index.html) (des touristes qui tiraient sur leurs kimonos, les poursuivaient avec leurs appareils photos, arrachaient leurs ornements de cheveux, ou même les frappaient avec leurs mégots de cigarettes) ?
 
-Évidemment c'est en écrivant ce post que (via la [page Wikipédia en anglais](https://en.wikipedia.org/wiki/Maiko#Contemporary_controversies) de maiko) je suis tombé sur la lanceuse d'alerte Kiyoshi Kinozawa, ex maiko, qui a dénoncé (en particulier aux [Nations Unies](https://www.ohchr.org/sites/default/files/documents/issues/women/sr/cfis/new-frontier/subm-sr-violence-against-cso-150-yes-maiko-rights.pdf)) les dérives de ce système un peu comme [Oshi no Ko](https://en.wikipedia.org/wiki/Oshi_no_Ko) dénonce les dérives du showbiz des japanese idols :
+Évidemment c'est en écrivant ce post que (via la [page Wikipédia en anglais](https://en.wikipedia.org/wiki/Maiko#Contemporary_controversies) de maiko) je suis tombé sur la lanceuse d'alerte Kiyoshi Kinozawa, ex maiko, qui a dénoncé (en particulier aux [Nations Unies](https://www.ohchr.org/sites/default/files/documents/issues/women/sr/cfis/new-frontier/subm-sr-violence-against-cso-150-yes-maiko-rights.pdf)) les dérives de ce système un peu comme la série [*Oshi no Ko*](https://en.wikipedia.org/wiki/Oshi_no_Ko) dénonce les dérives du showbiz des japanese idols :
 
 - [Abus sexuels : une ex-maiko livre un témoignage qui glace le Japon](https://japanization.org/abus-sexuels-une-ex-maiko-livre-un-temoignage-qui-glace-le-japon/), 27 juin 2022
 - [Abus sexuels : l'ex maiko ayant brisé l'omerta reprend la parole](https://japanization.org/abus-sexuels-lex-maiko-ayant-brise-lomerta-reprend-la-parole/), 15 février 2025
